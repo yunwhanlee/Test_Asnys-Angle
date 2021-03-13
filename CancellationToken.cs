@@ -5,7 +5,7 @@ using UnityEngine;
 public class CancellationToken : MonoBehaviour
 {
     // Start is called before the first frame update
-    Vector3 position;
+    Transform position;
     void Start()
     {
         
